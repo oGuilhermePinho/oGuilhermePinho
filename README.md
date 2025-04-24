@@ -8,3 +8,9 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+---
+
+📧 E-mail: guilhermepinho09@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/guilherme-pinho-94a572207/
